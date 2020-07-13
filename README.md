@@ -1,2 +1,2 @@
-# MESSAGE
-aueUI 's message APP
+# Mms
+aueUI 's Mms APP
